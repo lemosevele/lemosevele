@@ -5,13 +5,15 @@
 <img width="200" height="200" src="https://i.kym-cdn.com/photos/images/original/001/368/178/233" >
 
 
-my name is Evele, i'm front-end developer and student of information system.
+my name is Evele, i'm front-end developer and student of information system. i like to play games in my spare time.
 
-- in love with javascript
-- 🔭 i’m currently working on accenture
+- ❤️ in love with javascript
+- 👩🏻‍💻 i’m currently working on accenture and i'm happy because i'm learning new things every day
+- 🌱 i’m currently learning english, react, nodejs and other things..
+- 💪 trying to be a better person
 
-- 🌱 i’m currently learning ...
 
+here i share my projects and the things i'm learning!
 
  
  
