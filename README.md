@@ -8,12 +8,12 @@
 my name is Evele, i'm front-end developer and student of information system. i like to play games in my spare time.
 
 - ❤️ in love with javascript
-- 👩🏻‍💻 i’m currently working on accenture and i'm happy because i'm learning new things every day
+- 👩🏻‍💻 i’m currently working on Accenture and i'm happy because i'm learning new things every day
 - 🌱 i’m currently learning english, react, nodejs and other things..
 - 💪 trying to be a better person
 
 
-here i share my projects and the things i'm learning!
+i share my projects here and many things i'm learning!
 
  
  
