@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://i.kym-cdn.com/photos/images/original/001/368/178/233" width="200" height="200">
 
 <!--
 **lemosevele/lemosevele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
