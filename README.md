@@ -5,8 +5,8 @@
 <img width="200" height="200" src="https://i.kym-cdn.com/photos/images/original/001/368/178/233" >
 
 
-my name is Evele, i'm front-end developer and student of information system. i like to play games in my spare time.
-
+Olá! eu me chamo Evele, sou Desenvolvedora Frontend e Bacharela em Sistemas de Informação pela UFRPE.
+<!--
 - ❤️ in love with javascript
 - 👩🏻‍💻 i’m currently working on Accenture and i'm happy because i'm learning new things every day
 - 🌱 i’m currently learning english, react, nodejs and other things..
@@ -14,7 +14,7 @@ my name is Evele, i'm front-end developer and student of information system. i l
 
 
 i share my projects here and many things i'm learning!
-
+-->
  
  
 </samp>
