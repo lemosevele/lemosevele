@@ -5,7 +5,7 @@
 <img width="200" height="200" src="https://i.kym-cdn.com/photos/images/original/001/368/178/233" >
 
 
-Olá! eu me chamo Evele, sou Desenvolvedora Frontend e Bacharela em Sistemas de Informação pela UFRPE.
+Sou recém-formada em Sistemas de Informação pela UFRPE e Desenvolvedora Front-end. Possuo experiência no desenvolvimento de sistemas em AngularJS e SPAs em Angular 2+, também já atuei com back-end no desenvolvimento de microsserviços Java com Springboot. Atualmente meu foco é no desenvolvimento front-end. 
 <!--
 - ❤️ in love with javascript
 - 👩🏻‍💻 i’m currently working on Accenture and i'm happy because i'm learning new things every day
