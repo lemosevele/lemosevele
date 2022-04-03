@@ -3,12 +3,10 @@
 <p><img align="left" width="150" height="150" style="max-width:100%;" src="https://i.kym-cdn.com/photos/images/original/001/368/178/233"></p>
 
 <p>
-  <em>
    🎓 Bacharela em Sistemas de Informação pela UFRPE.
    <br>
    👩🏻‍💻 Estudante de Desenvolvimento iOS e Desenvolvedora Front-end.
    <br>
-  </em>
 </p>
 
 <br>
