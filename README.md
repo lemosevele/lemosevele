@@ -5,7 +5,7 @@
 <p>
    🎓 Bacharela em Sistemas de Informação pela UFRPE.
    <br>
-   👩🏻‍💻 Estudante de Desenvolvimento iOS e Desenvolvedora Front-end.
+   👩🏻‍💻 Desenvolvedora iOS.
    <br>
 </p>
 
