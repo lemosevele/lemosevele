@@ -3,10 +3,7 @@
 <p><img align="left" width="150" height="150" style="max-width:100%;" src="https://i.kym-cdn.com/photos/images/original/001/368/178/233"></p>
 
 <p>
-   🎓 Bacharela em Sistemas de Informação pela UFRPE.
-   <br>
-   👩🏻‍💻 Desenvolvedora iOS.
-   <br>
+  Olá, eu me chamo Evele. Sou formada em Sistemas de Informação pela UFRPE, sou desenvolvedora iOS e Front-end. Tenho experiência no desenvolvimento de sistemas em AngularJS e SPAs em Angular 2+, também já atuei com desenvolvimento iOS nativo utilizando o framework UIKit.
 </p>
 
 <br>
