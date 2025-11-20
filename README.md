@@ -1,46 +1,33 @@
-### oi 👋 bem-vindo ao meu perfil!
+# Olá! 👋
 
-<p><img align="left" width="150" height="150" style="max-width:100%;" src="https://i.kym-cdn.com/photos/images/original/001/368/178/233"></p>
+Se você encontrou minha página no GitHub, provavelmente me conhece do meu trabalho como desenvolvedora front-end. Seja muito bem-vindo(a)!
 
-<p>
-  Olá, eu me chamo Evele. Sou formada em Sistemas de Informação pela UFRPE, sou desenvolvedora iOS e Front-end. Tenho experiência no desenvolvimento de sistemas em AngularJS e SPAs em Angular 2+, também já atuei com desenvolvimento iOS nativo utilizando o framework UIKit.
-</p>
+## Quem sou eu? ✨
 
-<br>
+Meu nome é Evele e eu sou desenvolvedora front-end especializada em Angular.  
+No meu tempo livre, gosto de explorar **desenvolvimento iOS** e usar novas ferramentas e bibliotecas para front-end.
 
+## O que você vai encontrar aqui? 💻🧪
 
+Aqui eu reuno meu lado profissional e meu laboratório pessoal: projetos Angular, estudos de Swift/SwiftUI, experimentos com bibliotecas, pequenos utilitários e demos.
 
+## Minhas skills 🚀
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48px" alt="Angular"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48px" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48px" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="48px" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="48px" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48px" alt="SASS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48px" alt="Bootstrap"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="48px" alt="Swift"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="48px" alt="iOS"/>
+</div>
 
+## Contato
 
+<div>
+<a href="https://www.linkedin.com/in/evele-lemos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</div>
 
-<!--
-<samp>
- 
-<img width="200" height="200" src="https://i.kym-cdn.com/photos/images/original/001/368/178/233" >
-
-Olá, eu me chamo Evele. Sou recém-formada em Sistemas de Informação pela UFRPE e Desenvolvedora Front-end. Possuo experiência no desenvolvimento de sistemas em AngularJS e SPAs em Angular 2+, também já atuei com back-end no desenvolvimento de microsserviços Java com Springboot. Atualmente meu foco é no desenvolvimento front-end. 
-
-- ❤️ in love with javascript
-- 👩🏻‍💻 i’m currently working on Accenture and i'm happy because i'm learning new things every day
-- 🌱 i’m currently learning english, react, nodejs and other things..
-- 💪 trying to be a better person
-
-
-i share my projects here and many things i'm learning!
-</samp>
--->
- 
-<!--
-**lemosevele/lemosevele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
