@@ -5,7 +5,7 @@ Se você encontrou minha página no GitHub, provavelmente me conhece do meu trab
 ## Quem sou eu? ✨
 
 Meu nome é Evele e eu sou desenvolvedora front-end especializada em Angular.  
-No meu tempo livre, gosto de explorar **desenvolvimento iOS** e usar novas ferramentas e bibliotecas para front-end.
+No meu tempo livre, gosto de explorar desenvolvimento iOS e usar novas ferramentas e bibliotecas para front-end.
 
 ## O que você vai encontrar aqui? 💻🧪
 
